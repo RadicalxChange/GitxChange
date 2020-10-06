@@ -1,5 +1,5 @@
 # GitxChange
-# RadicalxChange + Gitcoin Hackathons
+**RadicalxChange + Gitcoin Hackathons**
 
 I. GitxChange | https://gitcoin.co/hackathon/GitxChange | May 27 - June 10, 2020
 
